@@ -21,5 +21,6 @@ End of it we shall have 3 tables in Lake database in Azure Synapse - Account, ou
 ## Building Datalake Curated/Gold Layer
 - Create curated database: Create a new database using the notebook named curated
 - Create curated account table: Use the notebook to create curated account table which will select some specific columns from the standardised account table and load it to the new table.
+- Create curated sales table: Use the notebook to create curated sales table which will merge the sales data from both sales tables and load it to the new table.
 
 ## Building Visualisation
