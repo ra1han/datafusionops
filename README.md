@@ -19,7 +19,7 @@ End of it we shall have 3 tables in Lake database in Azure Synapse - Account, ou
 - Create standardised their_sales table: Use the notebook to create standardised their_sales table which will do some data clean up (date column) on the raw their_sales table and load it to the new table.
 
 ## Building Datalake Curated/Gold Layer
-- Create a Power BI report from the dimensional model
-- Publish the report to Dynamics Sales portal 
+- Create curated database: Create a new database using the notebook named curated
+- Create curated account table: Use the notebook to create curated account table which will select some specific columns from the standardised account table and load it to the new table.
 
 ## Building Visualisation
