@@ -24,3 +24,5 @@ End of it we shall have 3 tables in Lake database in Azure Synapse - Account, ou
 - Create curated sales table: Use the notebook to create curated sales table which will merge the sales data from both sales tables and load it to the new table.
 
 ## Building Visualisation
+- Create Power BI report: Create a Power BI report using the template demo.pbix which consumes the two tables - account and sales. Publish this report to Power BI service.
+- Publish report to Dynamics Sales: Publish the report to Dynamics Sales
